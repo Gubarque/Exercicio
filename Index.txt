@@ -4,6 +4,7 @@
     <meta charset="UTF-8">
     <title>Cursos da Alura</title>
     Teste do comando remote
+    Teste do pull
 </head>
 <body>
     <ul>
@@ -11,7 +12,7 @@
         <li>Docker</li>
         <li>Ansible</li>
         <li>Curso de GIT</li>
-         Kubernetes: Introdução a orquestração de containers
+         Kubernetes: IntroduÃ§Ã£o a orquestraÃ§Ã£o de containers
     </ul>
 </body>
 </html>
