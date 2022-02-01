@@ -4,7 +4,6 @@
     <meta charset="UTF-8">
     <title>Cursos da Alura</title>
     Teste do comando remote
-    Alteração 2 - A missão
 </head>
 <body>
     <ul>
