@@ -6,6 +6,7 @@
     Teste do comando remote
     Teste do pull definitivo
     Teste do pull 2
+    Teste do pull 3
 </head>
 <body>
     <ul>
