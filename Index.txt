@@ -5,6 +5,7 @@
     <title>Cursos da Alura</title>
     Teste do comando remote
     Teste do pull definitivo
+    Teste do pull 2
 </head>
 <body>
     <ul>
